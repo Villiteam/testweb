@@ -1,0 +1,29 @@
+.icon-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+}
+
+.icon-team,
+.icon-school {
+    height: 80%;
+    float: left;
+    margin: 10px;
+}
+
+.img-ceo {
+    padding: 20px;
+}
+.content {
+    margin-top: 50px;
+}
+
+.content-wrapper {
+    margin: 25% 0;
+}
+
+.content-wrapper>* {
+    text-align: center;
+}
